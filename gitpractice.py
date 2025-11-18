@@ -1,1 +1,3 @@
-print('im learning git')
+
+def learn():
+    print('im learning git')
