@@ -1,3 +1,4 @@
 
-def learn():
-    print('im learning git')
+class Git:
+    def learn(self):
+        print('im learning git')
